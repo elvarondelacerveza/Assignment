@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50714" started-at="2020-09-17T02:45:20Z" finished-at="2020-09-17T02:46:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50714" started-at="2020-09-17T02:45:20Z" finished-at="2020-09-17T02:46:11Z">
+      <class name="com.test.app.MicrosoftApplicationSuite">
+        <test-method status="PASS" signature="configuration()[pri:0, instance:com.test.app.MicrosoftApplicationSuite@3b2da18f]" name="configuration" is-config="true" duration-ms="3989" started-at="2020-09-17T02:45:20Z" finished-at="2020-09-17T02:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.test.app.MicrosoftApplicationSuite@3b2da18f]" name="HomePage" duration-ms="5117" started-at="2020-09-17T02:45:24Z" finished-at="2020-09-17T02:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="ProductDetailsPage()[pri:0, instance:com.test.app.MicrosoftApplicationSuite@3b2da18f]" name="ProductDetailsPage" duration-ms="15037" started-at="2020-09-17T02:45:29Z" finished-at="2020-09-17T02:45:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductDetailsPage -->
+        <test-method status="PASS" signature="WindowsPage()[pri:0, instance:com.test.app.MicrosoftApplicationSuite@3b2da18f]" name="WindowsPage" duration-ms="21682" started-at="2020-09-17T02:45:44Z" finished-at="2020-09-17T02:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WindowsPage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.app.MicrosoftApplicationSuite@3b2da18f]" name="teardown" is-config="true" duration-ms="4847" started-at="2020-09-17T02:46:06Z" finished-at="2020-09-17T02:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.app.MicrosoftApplicationSuite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
